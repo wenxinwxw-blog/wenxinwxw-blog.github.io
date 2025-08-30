@@ -1,7 +1,19 @@
 title: Tiffany’s Tech & Life
-description: Notes on data engineering, AI tools, vlogs, and photo stories.
+description: Data engineering, AI, vlogs, and photo stories.
 url: https://YOUR-USERNAME.github.io
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+
+# Minimal Mistakes options
+author:
+  name: Tiffany
+  avatar: /assets/avatar.jpg
+minimal_mistakes_skin: default
+paginate: 5
+paginate_path: /page:num/
+collections:
+  posts:
+    output: true
