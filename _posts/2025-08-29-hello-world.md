@@ -9,10 +9,10 @@ Professional work experience & personal life journey
 2. Personal life sharing - food, music, reading, my cat, fashion, investment, home decor, makeups, tours, vlog, meditation, yoga, gym workout, fishing, perfume, cleaning, 断舍离, writing, cosplay
 
 ## About me
-[My LinkedIn](https://www.linkedin.com/in/tiffanywangengineer/)
-[Instagram](https://www.instagram.com/tiffanywangw/)
-[Youtube Channel] (https://www.youtube.com/@meditation_with_tiffa_wang)
-[Professional Projects](https://wenxinwangengineer.github.io/)
+- [My LinkedIn](https://www.linkedin.com/in/tiffanywangengineer/)
+- [Instagram](https://www.instagram.com/tiffanywangw/)
+- [Youtube Channel](https://www.youtube.com/@meditation_with_tiffa_wang)
+- [Professional Projects](https://wenxinwangengineer.github.io/)
 
 
 ## My journey: 
