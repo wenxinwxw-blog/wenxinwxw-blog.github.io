@@ -1,3 +1,10 @@
+---
+layout: post
+title: "My First Blog Post - Hello World"
+date: 2025-08-29
+categories: [about me]
+---
+
 # Hello World
 
 ## What are we doing here?
