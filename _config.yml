@@ -1,0 +1,7 @@
+title: Tiffany’s Tech & Life
+description: Notes on data engineering, AI tools, vlogs, and photo stories.
+url: https://YOUR-USERNAME.github.io
+theme: jekyll-theme-cayman   # simple and clean
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
